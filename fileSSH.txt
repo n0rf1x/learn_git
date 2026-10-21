@@ -1,1 +1,4 @@
 test sending file with SSH
+This file updating 21.10.2026 
+he-he, im do this for checking work software GIT
+sup!
